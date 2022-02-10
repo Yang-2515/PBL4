@@ -1,0 +1,34 @@
+.new-upload{
+	margin: 2px;
+}
+
+.new-upload ul{
+	list-style-type: none;
+	display: block;
+	border: 2px solid #cecece;
+	border-radius: 10px;
+	padding: 0 15px 0 15px;
+	font-size: 16px;
+	margin: 10px 0 10px;
+}
+
+.new-upload li{
+	list-style-type: none;
+	color: #777;
+	margin: 15px 0 15px;
+    border-bottom: 1px dashed #cecece;
+}
+
+.new-upload li a{
+    color: #333;
+    text-decoration: none;
+    transition: color 0.25s;
+}
+
+.new-upload li a:hover{
+    color: #6a5af9;
+}
+
+.new-upload{
+	margin: 2px;
+}
